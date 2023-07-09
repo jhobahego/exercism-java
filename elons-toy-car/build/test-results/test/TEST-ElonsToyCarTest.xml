@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ElonsToyCarTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2022-09-08T00:59:58" hostname="DESKTOP-IDR59S8" time="0.186">
+  <properties/>
+  <testcase name="buy_new_car_returns_instance" classname="ElonsToyCarTest" time="0.139"/>
+  <testcase name="new_car_distance_display" classname="ElonsToyCarTest" time="0.028"/>
+  <testcase name="distance_display_after_driving_once" classname="ElonsToyCarTest" time="0.0"/>
+  <testcase name="battery_display_after_driving_once" classname="ElonsToyCarTest" time="0.001"/>
+  <testcase name="distance_display_when_battery_empty" classname="ElonsToyCarTest" time="0.008"/>
+  <testcase name="battery_display_when_battery_empty" classname="ElonsToyCarTest" time="0.002"/>
+  <testcase name="battery_display_after_driving_multiple_times" classname="ElonsToyCarTest" time="0.0"/>
+  <testcase name="buy_new_car_returns_new_car_each_time" classname="ElonsToyCarTest" time="0.0"/>
+  <testcase name="distance_display_after_driving_multiple_times" classname="ElonsToyCarTest" time="0.0"/>
+  <testcase name="new_car_battery_display" classname="ElonsToyCarTest" time="0.001"/>
+  <system-out><![CDATA[Battery empty
+Battery empty
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

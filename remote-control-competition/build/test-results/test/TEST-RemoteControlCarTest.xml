@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RemoteControlCarTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-01-20T23:23:23" hostname="DESKTOP-IDR59S8" time="0.158">
+  <properties/>
+  <testcase name="race" classname="RemoteControlCarTest" time="0.147"/>
+  <testcase name="rankCars" classname="RemoteControlCarTest" time="0.004"/>
+  <testcase name="ensureCarsAreComparables" classname="RemoteControlCarTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
