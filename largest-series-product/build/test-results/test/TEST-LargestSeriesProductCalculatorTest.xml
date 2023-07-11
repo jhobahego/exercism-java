@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="LargestSeriesProductCalculatorTest" tests="14" skipped="0" failures="0" errors="0" timestamp="2023-07-11T21:06:57" hostname="DESKTOP-IDR59S8" time="0.199">
+  <properties/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthThreeWithNumbersNotInOrder" classname="LargestSeriesProductCalculatorTest" time="0.022"/>
+  <testcase name="testForIntegerOverflow" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfZeroIfAllDigitsAreZeroes" classname="LargestSeriesProductCalculatorTest" time="0.0"/>
+  <testcase name="testCorrectlyCalculatesLargestProductInLongStringToSearchV1" classname="LargestSeriesProductCalculatorTest" time="0.009"/>
+  <testcase name="testSeriesLengthLongerThanLengthOfStringToTestIsRejected" classname="LargestSeriesProductCalculatorTest" time="0.143"/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthThreeWithNumbersInOrder" classname="LargestSeriesProductCalculatorTest" time="0.002"/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfZeroIfAllSeriesOfGivenLengthContainZero" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <testcase name="testNegativeSeriesLengthIsRejected" classname="LargestSeriesProductCalculatorTest" time="0.003"/>
+  <testcase name="testCorrectlyCalculatesLargestProductWhenSeriesLengthEqualsStringToSearchLength" classname="LargestSeriesProductCalculatorTest" time="0.0"/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthTwoWithNumbersInOrder" classname="LargestSeriesProductCalculatorTest" time="0.003"/>
+  <testcase name="testEmptyStringToSearchAndSeriesOfNonZeroLengthIsRejected" classname="LargestSeriesProductCalculatorTest" time="0.002"/>
+  <testcase name="testStringToSearchContainingNonDigitCharacterIsRejected" classname="LargestSeriesProductCalculatorTest" time="0.002"/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthFiveWithNumbersInOrder" classname="LargestSeriesProductCalculatorTest" time="0.002"/>
+  <testcase name="testCorrectlyCalculatesLargestProductOfLengthTwoWithNumbersNotInOrder" classname="LargestSeriesProductCalculatorTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
