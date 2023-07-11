@@ -1,6 +1,5 @@
 import java.util.*;
 import java.util.stream.Collectors;
-import java.util.stream.IntStream;
 
 class TwelveDays {
 
@@ -35,7 +34,7 @@ class TwelveDays {
             "\n" +
             "On the tenth day of Christmas my true love gave to me: ten Lords-a-Leaping, nine Ladies Dancing," +
             " eight Maids-a-Milking, seven Swans-a-Swimming, six Geese-a-Laying, five Gold Rings, " +
-            "four Calling Birds, three French Hens, two Turtle Doves, and a Partridge in a Pear  Tree.\n" +
+            "four Calling Birds, three French Hens, two Turtle Doves, and a Partridge in a Pear Tree.\n" +
             "\n" +
             "On the eleventh day of Christmas my true love gave to me: eleven Pipers Piping, " +
             "ten Lords-a-Leaping, nine Ladies Dancing, eight Maids-a-Milking, seven Swans-a-Swimming, " +
@@ -54,8 +53,6 @@ class TwelveDays {
     String verses(int startVerse, int endVerse) {
         List<String> verses = listOfVerses();
         List<String> searchedVerses = new ArrayList<>();
-
-        IntStream.range(startVerse, endVerse);
 
         for (int i = startVerse-1; i <= endVerse-1; i++) {
             if(i == endVerse-1){
