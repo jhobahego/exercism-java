@@ -7,7 +7,6 @@ git clone https://github.com/jhobahego/exercism-java.git
 
 cd <nombre-proyecto>
 
-En terminal:
 gradle test
 ```
 
